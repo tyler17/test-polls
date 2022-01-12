@@ -12,6 +12,8 @@ options:
    2: No
 start_date: 2022-01-10T16:00:00
 end_date: 2023-01-13T16:00:00
+start_date: 2022-01-10T16:00:00
+end_date: 2023-01-13T16:00:00
 ---
 # Poll: Add ETH-A to Liquidations 2.0 Framework - April 26, 2021
 
